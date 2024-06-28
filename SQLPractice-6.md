@@ -1,1 +1,0 @@
-# SQLPractice-6
